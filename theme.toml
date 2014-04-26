@@ -1,0 +1,17 @@
+name = "Hyple"
+license = "MIT"
+licenselink = "https://github.com/qujihan/hyple/blob/master/LICENSE.md"
+
+[author]
+name = "qujihan"
+homepage = "http://qujihan.com"
+
+# If Porting existing theme
+[original]
+author = "mdo"
+homepage = "http://markdotto.com/"
+repo = "https://www.github.com/mdo/hyde"
+
+[fork]
+name = "spf13"
+homepage = "http://spf13.com"
