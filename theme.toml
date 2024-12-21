@@ -1,4 +1,4 @@
-name = "Hyde"
+name = "Hyple"
 license = "MIT"
 licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
 description = "An elegant open source and mobile first theme"
@@ -7,11 +7,15 @@ features = ["blog", "themes", "disqus"]
 min_version = 0.53
 
 [author]
-    name = "spf13"
-    homepage = "http://spf13.com"
+name = "qujihan"
+homepage = "http://qujihan.com"
 
 # If Porting existing theme
 [original]
-    author =  "mdo"
-    homepage = "http://markdotto.com/"
-    repo = "https://www.github.com/mdo/hyde"
+author = "mdo"
+homepage = "http://markdotto.com/"
+repo = "https://www.github.com/mdo/hyde"
+
+[fork]
+name = "spf13"
+homepage = "http://spf13.com"
